@@ -35,9 +35,9 @@ export default function Signup() {
 
     try {
       const response = await axios.post(
-        `${import.meta.env.VITE_API_URL}/register`,
-        value
-      );
+  "https://registration-form-s704.onrender.com/register",
+  value
+);
 
       alert(response.data.message);
 
