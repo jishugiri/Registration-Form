@@ -12,7 +12,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://registration-form-1-09go.onrender.com",
+    origin: "https://registration-form-1-o9go.onrender.com",
   })
 );
 app.use(express.json());
