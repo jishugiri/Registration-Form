@@ -8,6 +8,10 @@ Frontend: https://registration-form-1-o9go.onrender.com/
 
 Backend API: https://registration-form-s704.onrender.com/
 
+## 📸 Project Preview
+
+![Registration Form Preview](./images/registration-form.png)
+
 ## 📌 Features
 
 - Responsive registration form
