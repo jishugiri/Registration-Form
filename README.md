@@ -81,5 +81,8 @@ Registration-Form/
 │   ├── package.json
 │   └── server.js
 │
+├── images/
+│   └── registration-form.png
+│
 ├── .gitignore
 └── README.md
