@@ -10,7 +10,11 @@ dotenv.config();
 
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://registration-form-1-09go.onrender.com",
+  })
+);
 app.use(express.json());
 
 
